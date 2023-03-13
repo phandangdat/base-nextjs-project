@@ -1,0 +1,9 @@
+build
+coverage
+dist
+.next
+.vscode
+node_modules
+dist
+dist-ssr
+*.config.js

@@ -1,0 +1,87 @@
+@font-face {
+  font-display: swap;
+  font-family: 'Shippori Mincho';
+  font-style: normal;
+  font-weight: normal;
+  src: url('../fonts/Shippori-Mincho/ShipporiMincho-Regular.ttf');
+}
+
+@font-face {
+  font-display: swap;
+  font-family: 'Shippori Mincho';
+  font-style: normal;
+  font-weight: 500;
+  src: url('../fonts/Shippori-Mincho/ShipporiMincho-Medium.ttf');
+}
+
+@font-face {
+  font-display: swap;
+  font-family: 'Shippori Mincho';
+  font-style: normal;
+  font-weight: 600;
+  src: url('../fonts/Shippori-Mincho/ShipporiMincho-SemiBold.ttf');
+}
+
+@font-face {
+  font-display: swap;
+  font-family: 'Shippori Mincho';
+  font-style: normal;
+  font-weight: bold;
+  src: url('../fonts/Shippori-Mincho/ShipporiMincho-Bold.ttf');
+}
+
+@font-face {
+  font-display: swap;
+  font-family: 'Shippori Mincho';
+  font-style: normal;
+  font-weight: 800;
+  src: url('../fonts/Shippori-Mincho/ShipporiMincho-ExtraBold.ttf');
+}
+
+@font-face {
+  font-display: swap;
+  font-family: 'Trajan Sans Pro';
+  font-style: normal;
+  font-weight: normal;
+  src: url('../fonts/Trajan-Sans-Pro/TrajanSansPro-Black.ttf');
+}
+
+@font-face {
+  font-display: swap;
+  font-family: 'Trajan Sans Pro';
+  font-style: normal;
+  font-weight: bold;
+  src: url('../fonts/Trajan-Sans-Pro/TrajanSansPro-Bold.ttf');
+}
+
+@font-face {
+  font-display: swap;
+  font-family: 'Trajan Sans Pro';
+  font-style: normal;
+  font-weight: normal;
+  src: url('../fonts/Trajan-Sans-Pro/TrajanSansPro-ExtraLight.ttf');
+}
+
+@font-face {
+  font-display: swap;
+  font-family: 'Trajan Sans Pro';
+  font-style: normal;
+  font-weight: normal;
+  src: url('../fonts/Trajan-Sans-Pro/TrajanSansPro-Light.ttf');
+}
+
+@font-face {
+  font-display: swap;
+  font-family: 'Trajan Sans Pro';
+  font-style: normal;
+  font-weight: normal;
+  src: url('../fonts/Trajan-Sans-Pro/TrajanSansPro-Regular.ttf');
+}
+
+@font-face {
+  font-display: swap;
+  font-family: 'Trajan Sans Pro';
+  font-style: normal;
+  font-weight: 600;
+  src: url('../fonts/Trajan-Sans-Pro/TrajanSansPro-Semibold.ttf');
+}
